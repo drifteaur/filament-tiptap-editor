@@ -7,6 +7,7 @@ return [
     'align_right' => 'Align Text Right',
     'blockquote' => 'Blockquote',
     'bold' => 'Bold',
+	'clear_formatting' => 'Clear Formatting',
     'code_block' => 'Code Block',
     'code' => 'Inline Code',
     'color' => 'Color',
